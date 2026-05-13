@@ -2,7 +2,7 @@
 
 <p align="center">
   <video 
-    src="./docs/demo.mp4"
+    src="./docs/Recording 2026-05-13 223229.mp4"
     width="100%"
     autoplay
     loop
