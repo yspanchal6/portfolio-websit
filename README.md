@@ -152,7 +152,7 @@ root/
 ## 🤝 Contribution Credits
 - **Developer**: Yash Panchal
 - **Design Inspiration**: Futuristic / Cyberpunk 2077 / Modern Tech Dashboards
-- **Tools**: Google AI Studio, VS Code, Postman
+- **Tools**: VS Code, Postman, Emailjs
 
 ---
 
