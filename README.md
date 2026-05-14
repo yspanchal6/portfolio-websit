@@ -1,24 +1,16 @@
 # ⚡ Yash Portfolio: Cyber-Tech Identity ⚡
 
 <p align="center">
-  <video
+  <img
+    src="./docs/demo-gif(1).gif"
     width="100%"
-    autoplay
-    loop
-    muted
-    playsinline
-    controls
+    alt="Portfolio Demo"
     style="
-      border-radius: 8px;
-      border: 1px solid rgba(0, 255, 255, 0.2);
-      box-shadow: 0 0 20px rgba(0, 255, 255, 0.1);
+      border-radius: 12px;
+      border: 1px solid rgba(0,255,255,0.2);
+      box-shadow: 0 0 20px rgba(0,255,255,0.1);
     "
-  >
-    <source
-      src="https://raw.githubusercontent.com/yspanchal6/portfolio-websit/main/docs/demo.mp4"
-      type="video/mp4"
-    />
-  </video>
+  />
 </p>
 > **A high-performance, futuristic portfolio ecosystem engineered for the digital age.**
 
