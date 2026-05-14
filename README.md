@@ -1,19 +1,25 @@
 # ⚡ Yash Portfolio: Cyber-Tech Identity ⚡
 
 <p align="center">
-  
-  <video 
-    src="https://raw.githubusercontent.com/yspanchal6/portfolio-websit/main/docs/demo.mp4"
+  <video
     width="100%"
     autoplay
     loop
     muted
     playsinline
-    style="border-radius: 8px; border: 1px solid rgba(0, 255, 255, 0.2); box-shadow: 0 0 20px rgba(0, 255, 255, 0.1);"
+    controls
+    style="
+      border-radius: 8px;
+      border: 1px solid rgba(0, 255, 255, 0.2);
+      box-shadow: 0 0 20px rgba(0, 255, 255, 0.1);
+    "
   >
+    <source
+      src="https://raw.githubusercontent.com/yspanchal6/portfolio-websit/main/docs/demo.mp4"
+      type="video/mp4"
+    />
   </video>
 </p>
-
 > **A high-performance, futuristic portfolio ecosystem engineered for the digital age.**
 
 Built with a modular architecture using **React 19**, **Vite 6**, and **Tailwind CSS 4**. This platform features a high-fidelity cyberpunk aesthetic, neon-glow interfaces, and liquid-smooth animations to showcase technical mastery in development and cybersecurity.
