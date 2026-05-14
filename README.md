@@ -12,6 +12,7 @@
     "
   />
 </p>
+
 > **A high-performance, futuristic portfolio ecosystem engineered for the digital age.**
 
 Built with a modular architecture using **React 19**, **Vite 6**, and **Tailwind CSS 4**. This platform features a high-fidelity cyberpunk aesthetic, neon-glow interfaces, and liquid-smooth animations to showcase technical mastery in development and cybersecurity.
