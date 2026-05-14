@@ -2,7 +2,7 @@
 
 <p align="center">
   <video 
-    src="./docs/demo.mp4"
+    src="[./docs/demo.mp4](https://raw.githubusercontent.com/yspanchal6/portfolio-websit/main/docs/demo.mp4)"
     width="100%"
     autoplay
     loop
